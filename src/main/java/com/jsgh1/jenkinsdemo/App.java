@@ -7,6 +7,6 @@ public class App {
     }
 
     public static String getGreeting() {
-        return "Proyecto Jenkins funcionando correctamente"
+        return "Proyecto Jenkins funcionando correctamente";
     }
 }
